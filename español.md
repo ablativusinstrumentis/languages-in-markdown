@@ -24,7 +24,27 @@ Yo te quiero <33333, quieresme? No me quieres? :((( Lloro. Hablamos espanol, per
 
 ## Preterite
 
+## Future
+Used for "going to do" and "will do" (informal and formal)
 
-## Subjunctive Tense Specifically
+### Informal "going to do"
+*ir (present) + a + infinitive*, same construction as English, used for immediate future
 
-# Various Other Words
+|Ir conjugation| Singular | Plural    |
+|--------------|----------|-----------|
+| Yo/Nosotros  | voy      | vamos     |
+| Tu/Vosotros  | vas      | vais      |
+| 3rd          | va       | van       |
+
+Example: Voy a comer "i am going to eat", quiero ir a comer "i want to go eat"
+
+### Formal "will do"
+*infinitive + ending*, mostly regular, some verbs change root form but overall normal.
+
+|             | Singular | Plural    |
+|-------------|----------|-----------|
+| Yo/Nosotros | -e       | -emos     |
+| Tu/Vosotros | -ás      | -éis      |
+| 3rd         | -á       | 	-án      |
+
+### Ramblings
