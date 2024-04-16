@@ -3,7 +3,7 @@
 # Verbs
 
 ## Present
-Used for english simple present and continuous present (I do and I am doing)
+Used for english simple present and continuous present (i do and i am doing)
 
 ### Normal verbs
 
@@ -20,10 +20,24 @@ Used for english simple present and continuous present (I do and I am doing)
 Some verbs: querer, llorar, hablar, comer, estar, tener, conocer
 
 ### Ramblings
-Yo te quiero <33333, quieresme? No me quieres? :((( Lloro. Hablamos espanol, pero lo non es bien. Tengo muy hambre, quiero comer. Estoy abburido porque el presente es muy facil. No qUiErO grIdAr Tu NoMbRe. Quiemo la escuela 😈 quiero incendio provocado. Conozco tu madre (😈).
+Yo te quiero <33333, quieresme? No me quieres? :((( Lloro. Hablamos espanol, pero lo non es bien. Tengo muy hambre, quiero comer. Estoy abburido porque el presente es muy facil. No qUiErO grIdAr Tu NoMbRe. Quiemo la escuela 😈 quiero incendio provocado. Conozco tu madre (😈). Non ven que veo. Me dices algo y no te escucho jejeje. Jejeje es una manera interessante de reir, me gusta mas heehee. Uhm amo la carne humana - duolingo
 
 ## Preterite
 Used for simple past. IMPORTANT THIS IS **NOT** THE IMPERFECT TENSE. THERE IS A DIFFERENCE BETWEEN i did {x} AND i was doing {x} OR i used to do {x}. 
+
+### Normal verbs
+Beware, for the nosotros form is the same in present and preterite for -ar verbs. Scary I know.
+
+|             | Singular  | Plural        |
+|-------------|-----------|---------------|
+| Yo/Nosotros | -é/í      | -amos/imos    |
+| Tu/Vosotros | -aste/iste| -asteis/isteis|
+| 3rd         | -ó/io     | -aron/ieron   |
+
+### Weird and cringe verbs (but even worse than present tense)
+As much as I wish I could say the preterite is regular, ser and ir have THE **EXACT SAME CONJUGATION** FOR [SOME REASON (1)](https://github.com/ablativusinstrumentis/languages-in-markdown/edit/main/espa%C3%B1ol.md#silly-goofy-language-notes-for-those-interested-literally-just-me-im-interested). Most of the irregulars kind of half-remember that "oh i used to be a latin verb once right" and add a v EVEN THOUGH THE V IS USED IN PAST PERFECT AND NOT SIMPLE PAST but ok fine.
+
+[these guys](https://www.cliffsnotes.com/study-guides/spanish/spanish-i/the-preterite-tense/irregulars-in-the-preterite-tense) again have irregulars which is nice.
 
 ## Future
 Used for "going to do" and "will do" (informal and formal)
@@ -51,4 +65,10 @@ Example: Voy a comer "i am going to eat", quiero ir a comer "i want to go eat"
 Some verbs: tener, poder, llegar (to arrive)
 
 ### Ramblings
-Voy a quemar la escuela. O no. No, quemaré la escuela. Quieres ir a comer conmigo? Si tu non vas conmigo, lloraras. (check this construction it probably needs conditional) Tendre muy hambre en x horas. Cuando llegaras? Podre ir a comer conmigo per favor quiero comer estoy dying de hambre. ay Dios mio ?cuando dejas de? 
+Voy a quemar la escuela. O no. No, quemaré la escuela. Quieres ir a comer conmigo? Si tu non vas conmigo, lloraras. (check this construction it probably needs conditional) Tendre muy hambre en x horas. Cuando llegaras? Podre ir a comer conmigo per favor quiero comer estoy dying de hambre. ay Dios mio ?cuando dejas de? Les gustara (muahaha o es muajaja o muajeje aaaa)
+
+
+# Silly goofy language notes for those interested (literally just me, im interested)
+Please excuse the fact that these arent in fact footnotes, I know how to do footnotes I just dont like the way they look in this case. ALSO THESE ARENT FOOTNOTES. THEY ARE JUST NOTES.
+
+1: It was vulgar latin. Of course it was vulgar latin. [Here](http://spanishlinguist.us/2017/02/why-ser-and-ir-are-so-irregular/) [are](https://en.wiktionary.org/wiki/ir#Spanish) [some](https://en.wiktionary.org/wiki/ser#Spanish) [silly](https://qr.ae/psPVuu) [semi-related links](https://forum.wordreference.com/threads/ser-ir-preterite.512174/post-2902468) that dont reaaaaally answer the question but also i couldnt find anything better.
