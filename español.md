@@ -2,6 +2,9 @@
 
 # Verbs
 
+## Sources-resources
+Oh hey look at [this silly](https://www.spanish.academy/blog/master-the-18-spanish-tenses-and-take-our-cheat-sheet-with-you/).
+
 ## Present
 Used for english simple present and continuous present (i do and i am doing)
 
@@ -38,6 +41,8 @@ Beware, for the nosotros form is the same in present and preterite for -ar verbs
 As much as I wish I could say the preterite is regular, ser and ir have THE **EXACT SAME CONJUGATION** FOR [SOME REASON (1)](https://github.com/ablativusinstrumentis/languages-in-markdown/blob/main/espa%C3%B1ol.md#silly-goofy-language-notes-for-those-interested-literally-just-me-im-interested). Most of the irregulars kind of half-remember that "oh i used to be a latin verb once right" and add a v EVEN THOUGH THE V IS USED IN PAST PERFECT AND NOT SIMPLE PAST but ok fine.
 
 [these guys](https://www.cliffsnotes.com/study-guides/spanish/spanish-i/the-preterite-tense/irregulars-in-the-preterite-tense) again have irregulars which is nice.
+
+
 
 ## Future
 Used for "going to do" and "will do" (informal and formal)
