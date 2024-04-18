@@ -42,7 +42,10 @@ As much as I wish I could say the preterite is regular, ser and ir have THE **EX
 
 [these guys](https://www.cliffsnotes.com/study-guides/spanish/spanish-i/the-preterite-tense/irregulars-in-the-preterite-tense) again have irregulars which is nice.
 
+Some verbs: dar, pasar, a/parecer, poner, creer, poder, pensar, sentir, trabajar, buscar (wow so many verbs)
 
+### Ramblings
+Yo te di todo (y me diste nada lmaoo) (fuiste un nerd). *Pareciste* como un nerd, pero *apareciste* en frente de mi. Pense que parecer y aparecer fueron lo mismo, pero no. Mi senti como un idioto. QUE PASO MIENTRAS NON FUI AQUI. (o que mierda paso) Creo que me intereso. Busce y busce y non encontre. Ayer yo trabaje para 16 HORAS. 
 
 ## Future
 Used for "going to do" and "will do" (informal and formal)
@@ -74,6 +77,6 @@ Voy a quemar la escuela. O no. No, quemaré la escuela. Quieres ir a comer conmi
 
 
 # Silly goofy language notes for those interested (literally just me, im interested)
-Please excuse the fact that these arent in fact footnotes, I know how to do footnotes I just dont like the way they look in this case. ALSO THESE ARENT FOOTNOTES. THEY ARE JUST NOTES.
+Please excuse the fact that these arent in fact footnotes, I know how to do footnotes I just dont like the way they look in this case. ALSO THESE ARENT SUPPOSED TO BE FOOTNOTES.
 
 1: It was vulgar latin. Of course it was vulgar latin. [Here](http://spanishlinguist.us/2017/02/why-ser-and-ir-are-so-irregular/) [are](https://en.wiktionary.org/wiki/ir#Spanish) [some](https://en.wiktionary.org/wiki/ser#Spanish) [silly](https://qr.ae/psPVuu) [semi-related links](https://forum.wordreference.com/threads/ser-ir-preterite.512174/post-2902468) that dont reaaaaally answer the question but also i couldnt find anything better.
