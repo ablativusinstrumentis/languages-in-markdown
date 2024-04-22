@@ -47,6 +47,20 @@ Some verbs: dar, pasar, a/parecer, poner, creer, poder, pensar, sentir, trabajar
 ### Ramblings
 Yo te di todo (y me diste nada lmaoo) (fuiste un nerd). *Pareciste* como un nerd, pero *apareciste* en frente de mi. Pense que parecer y aparecer fueron lo mismo, pero no. Mi senti como un idioto. QUE PASO MIENTRAS NON FUI AQUI. (o que mierda paso) Creo que me intereso. Busce y busce y non encontre. Ayer yo trabaje para 16 HORAS. 
 
+## Imperfect
+This **IS** THE IMPERFECT TENSE. The difference is approximately "was doing" vs "did". Used for habitual/continuous actions "used to do this", actions in the past slightly before another past action "was doing this when happened", time and dates and stuff "was 3:00" (era 3 horas idk), past descriptions "was tired" (estaba cansado). Only 3 irregular verbs, ir is pretty intuitive (for once), ser is just italian era, ver is *ve + ending*. Easy woo!!
+
+|             | Singular  | Plural       |
+|-------------|-----------|--------------|
+| Yo/Nosotros | -aba/ía   | -abamos/iamos|
+| Tu/Vosotros | -abas/ias | -abais/iais  |
+| 3rd         | -aba/ia   | -aban/ian    |
+
+Some verbs:
+
+### Ramblings
+
+
 ## Future
 Used for "going to do" and "will do" (informal and formal)
 
