@@ -90,6 +90,10 @@ Some verbs: tener, poder, llegar (to arrive)
 Voy a quemar la escuela. O no. No, quemaré la escuela. Quieres ir a comer conmigo? Si tu non vas conmigo, lloraras. (check this construction it probably needs conditional) Tendre muy hambre en x horas. Cuando llegaras? Podre ir a comer conmigo per favor quiero comer estoy dying de hambre. ay Dios mio ?cuando dejas de? Les gustara (muahaha o es muajaja o muajeje aaaa)
 
 
+# Silly Tumblr Posts I Really Like
+[disapproval-decepcionar](https://www.tumblr.com/tagged/spanish%20vocab)
+
+
 # Silly goofy language notes for those interested (literally just me, im interested)
 Please excuse the fact that these arent in fact footnotes, I know how to do footnotes I just dont like the way they look in this case. ALSO THESE ARENT SUPPOSED TO BE FOOTNOTES.
 
