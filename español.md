@@ -89,6 +89,24 @@ Some verbs: tener, poder, llegar (to arrive)
 ### Ramblings
 Voy a quemar la escuela. O no. No, quemaré la escuela. Quieres ir a comer conmigo? Si tu non vas conmigo, lloraras. (check this construction it probably needs conditional) Tendre muy hambre en x horas. Cuando llegaras? Podre ir a comer conmigo per favor quiero comer estoy dying de hambre. ay Dios mio ?cuando dejas de? Les gustara (muahaha o es muajaja o muajeje aaaa)
 
+## Conditional
+A lot of use cases!!! Very good tense 10/10
+
+### Uses!!!!!! So many
+- Would do in the future if you could
+- Something that probably wont happen (but if only) (like italian quando circa impossibile ma voglio)
+#### Specific Cases
+- English "would {verb}" is just the conditional of that verb. So nice!
+- English "could {verb infinitive}" is the conditional of poder.
+- English "should" is deber.
+
+*infinitive + ending*, mostly regular, some verbs change root form but overall normal.
+
+|             | Singular | Plural    |
+|-------------|----------|-----------|
+| Yo/Nosotros | -ia      | -iamos    |
+| Tu/Vosotros | -ias     | -iais     |
+| 3rd         | -ia      | 	-ian     |
 
 # Silly Tumblr Posts I Really Like
 [disapproval-decepcionar](https://www.tumblr.com/tagged/spanish%20vocab)
