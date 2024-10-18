@@ -90,6 +90,7 @@ Some verbs: tener, poder, llegar (to arrive)
 Voy a quemar la escuela. O no. No, quemaré la escuela. Quieres ir a comer conmigo? Si tu non vas conmigo, lloraras. (check this construction it probably needs conditional) Tendre muy hambre en x horas. Cuando llegaras? Podre ir a comer conmigo per favor quiero comer estoy dying de hambre. ay Dios mio ?cuando dejas de? Les gustara (muahaha o es muajaja o muajeje aaaa)
 
 ## Conditional
+[Info from here](https://www.spanish.academy/blog/what-is-the-conditional-tense-in-spanish/)
 A lot of use cases!!! Very good tense 10/10
 
 ### Uses!!!!!! So many
@@ -107,7 +108,7 @@ A lot of use cases!!! Very good tense 10/10
 ### Erm Ackshually three types of conditional (kind of? theyre the same thing just different times)
 - The normal one (the normal one) (present tense)
 - The less normal one (continuous conditional) (I would be doing *Yo estaria haciendo*)
-- The even less normal one (perfect conditional) (This would have happened if ... *Esto hubiera? check pasado si ...*)
+- The even less normal one (perfect conditional) (This would have happened if ... *Esto habria pasado si ...*)
 
 *infinitive + ending*, mostly regular, some verbs change root form but overall normal.
 
@@ -116,6 +117,9 @@ A lot of use cases!!! Very good tense 10/10
 | Yo/Nosotros | -ia      | -iamos    |
 | Tu/Vosotros | -ias     | -iais     |
 | 3rd         | -ia      | 	-ian     |
+
+### Ramblings!!! 
+Si estoy mas bien en? a? que preposition? Espanol, hablaria mas. Yo estaria haciendo (italian compiti) pero estoy cansado.
 
 # Silly Tumblr Posts I Really Like
 [disapproval-decepcionar](https://www.tumblr.com/tagged/spanish%20vocab)
