@@ -95,10 +95,19 @@ A lot of use cases!!! Very good tense 10/10
 ### Uses!!!!!! So many
 - Would do in the future if you could
 - Something that probably wont happen (but if only) (like italian quando circa impossibile ma voglio)
+- Give advice (you should do this *Deberias hacerlo*), ask for advice (what should I do, *Que deberia hacer?*)
+- Politeness (could you please *podrias ...*)
+- "Future in the past" (I said I would do that... *Yo dijo que lo haceria...*)
+- "If {conditional} then {conditional}" (*Si* clauses) (If I could I would *Si podria, haria*)
+- "Speculate about the past" (Must have been *Esto seria*)
 #### Specific Cases
 - English "would {verb}" is just the conditional of that verb. So nice!
 - English "could {verb infinitive}" is the conditional of poder.
 - English "should" is deber.
+### Erm Ackshually three types of conditional (kind of? theyre the same thing just different times)
+- The normal one (the normal one) (present tense)
+- The less normal one (continuous conditional) (I would be doing *Yo estaria haciendo*)
+- The even less normal one (perfect conditional) (This would have happened if ... *Esto hubiera? check pasado si ...*)
 
 *infinitive + ending*, mostly regular, some verbs change root form but overall normal.
 
