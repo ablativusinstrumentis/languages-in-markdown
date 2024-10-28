@@ -121,6 +121,18 @@ A lot of use cases!!! Very good tense 10/10
 ### Ramblings!!! 
 Si estoy mas bien en? a? que preposition? Espanol, hablaria mas. Yo estaria haciendo (italian compiti) pero estoy cansado.
 
+## Past Participles
+*In general* -ar verbs have "ado" added instead of -ar, -ir/-er have "ido". Or so I fucking thought. Behold, EXCEPTIONS:
+
+## Present Perfect
+Literally same as in english. *To have/haber (present)* + *past participle*. "I have {done thing}" (definite ending/time period). When something happened a definite number of times. NOT "I used to do"
+
+|             | Singular | Plural    |
+|-------------|----------|-----------|
+| Yo/Nosotros | he       | hemos     |
+| Tu/Vosotros | has      | habeis    |
+| 3rd         | ha       | 	han      |
+
 # Silly Tumblr Posts I Really Like
 [disapproval-decepcionar](https://www.tumblr.com/tagged/spanish%20vocab)
 
